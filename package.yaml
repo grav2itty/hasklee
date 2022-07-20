@@ -38,6 +38,7 @@ dependencies:
 - distributive
 - generic-data
 - hashable
+- hgal
 - hgeometry
 - hgeometry-combinatorial
 - lens
@@ -84,6 +85,7 @@ library:
     - Hasklee.Mesh
     - Hasklee.Mesh.Graph
     - Hasklee.Mesh.Mod
+    - Hasklee.Mesh.New
     - Hasklee.Object
     - Hasklee.Object.Mod
     - Hasklee.Pipe
